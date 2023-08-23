@@ -1,3 +1,11 @@
-<h1>Bootstrap Doğa Projesi</h1>
+<h1>Bootstrap Nature Project</h1>
+
+Nature Project Made with bootstrap
 
 "# Doga-Bootstrap" 
+
+## Technologies
+
+````
+HTML CSS Bootstrap
+````
